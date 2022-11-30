@@ -2,4 +2,4 @@
 
 ### deployed in this URL:
 
-[ PAGINATION ] (https://mina-pagination.netlify.app)
+[ PAGINATION ] ( https://mina-pagination.netlify.app )
