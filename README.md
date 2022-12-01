@@ -1,5 +1,5 @@
-## Pagination using HTML and CSS and vanila javascript
+## Pagination using HTML, CSS and javascript(Ajax)
 
 ### deployed in this URL:
 
-[ PAGINATION ] ( https://mina-pagination.netlify.app )
+[ PAGINATION] ( https://mina-pagination.netlify.app )
